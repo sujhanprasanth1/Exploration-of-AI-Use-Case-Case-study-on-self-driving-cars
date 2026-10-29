@@ -48,6 +48,8 @@ The planned decision is sent to the control system, which operates the steering,
 
 ## Example
 If a self-driving car approaches a pedestrian crossing, its cameras and LiDAR detect the pedestrian. Sensor fusion confirms the pedestrian’s position and distance. AI predicts that the pedestrian may cross the road, so the path-planning system decides to slow down or stop. The control system then applies the brakes. After the pedestrian crosses safely, the car resumes driving.
+<img width="693" height="869" alt="image" src="https://github.com/user-attachments/assets/92b600d4-b91f-4c73-bc42-a9cb4b0e97af" />
+
 
 # Result
 The study shows that self-driving cars use AI to perform the major functions of human driving: sensing the environment, recognizing objects, predicting movement, planning a safe route, and controlling the vehicle. Cameras, radar, and LiDAR provide environmental data, while AI and machine learning convert this data into safe driving decisions in real time.
